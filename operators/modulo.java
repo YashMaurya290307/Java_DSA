@@ -1,3 +1,5 @@
+package operators;
+
 public class modulo {
   public static void main(String[] args) {
     int a =59;
