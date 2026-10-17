@@ -1,4 +1,4 @@
-package operators;
+package patternPrinting.operators;
 public class arithmeticOperationsOnInt {
   public static void main(String[] args) {
     int x = 5, y = 2;

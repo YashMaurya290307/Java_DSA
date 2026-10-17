@@ -1,4 +1,4 @@
-package operators;
+package patternPrinting.operators;
 
 public class lonOfInt {
   public static void main(String[] args) {
