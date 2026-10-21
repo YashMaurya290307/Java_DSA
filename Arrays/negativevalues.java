@@ -2,8 +2,6 @@ package Arrays;
 
 import java.util.Scanner;
 
-import loops.sumofdigits;
-
 public class negativevalues {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
